@@ -4,4 +4,4 @@
 
 A set of tutorials desgined to help people make their first contributions to R packages by working on documentation.
 
-It will work new contributors through making actual changes in the fixingrdocs package, with the goal that this will build confidence to make contributions to other packages.
+It will work new contributors through making actual changes in the [fixingrdocs](https://github.com/firstcontRibution/fixingrdocs) package, with the goal that this will build confidence to make contributions to other packages.
