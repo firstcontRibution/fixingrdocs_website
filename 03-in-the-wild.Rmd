@@ -1,0 +1,7 @@
+# Contributing in the Wild {#wild}
+
+**Always** read the README and contributing guidelines before issuing a pull request.  It's not only good manners,  but it may avoid you making a change in the wrong place, or a spending time on a pull request the maintainer will not accept.
+
+If you are at all unsure whether contributions are welcome, or where to make changes, **ask** by opening an issue.  
+
+If contributions are welcome, you may even suggest in the issue that you willing to add a contributor guide (via PR of course!).

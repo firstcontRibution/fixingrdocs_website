@@ -1,0 +1,15 @@
+# Files that generate documentation
+
+## Getting set up
+
+You need to have git setup.
+
+We'll use RStudio.
+
+## The contribution workflow
+
+## The documentation workflow
+
+## Good pull requests
+
+## Walk through editing help file for `this_function()`
